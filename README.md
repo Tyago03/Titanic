@@ -1,9 +1,9 @@
 # Titanic
 ## A fazer
-- `Terminar a guia usuário`
-- `Arrumar página método de pagamento`
-- `Mecher na paleta de cores`
-- `Adicionar plano de fundo`
+- ~~Terminar a guia usuário~~
+- ~~Arrumar página método de pagamento~~
+- ~~Mecher na paleta de cores~~
+- ~~Adicionar plano de fundo~~
 
 ## Módulos
 1. Cadastro / Login
