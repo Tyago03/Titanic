@@ -19,19 +19,19 @@ Este projeto foi desenvolvido como trabalho acadêmico com o objetivo de aplicar
 ## 📂 Estrutura do Projeto
 
 titanic/
-├── index.html # Página principal
-├── sobre.html # Página sobre o Titanic
-├── usuario.html # Cadastro de usuário
-├── ingresso1.html # Classe Majestic
-├── ingresso2.html # Classe Elegance
-├── ingresso3.html # Classe Voyager
-├── comprar.html # Página de compra
-├── cartao.html # Pagamento com cartão
-├── concluido.html # Confirmação de pagamento
-├── concluido_dinheiro.html # Confirmação pagamento em dinheiro
-├── cadastro_concluido.html # Confirmação de cadastro
-└── css/
-└── style.css # Estilos personalizados
+├── index.html # Página principal  
+├── sobre.html # Página sobre o Titanic  
+├── usuario.html # Cadastro de usuário  
+├── ingresso1.html # Classe Majestic  
+├── ingresso2.html # Classe Elegance  
+├── ingresso3.html # Classe Voyager  
+├── comprar.html # Página de compra  
+├── cartao.html # Pagamento com cartão  
+├── concluido.html # Confirmação de pagamento  
+├── concluido_dinheiro.html # Confirmação pagamento em dinheiro  
+├── cadastro_concluido.html # Confirmação de cadastro  
+└── css/  
+└── style.css # Estilos personalizados  
 
 ## Tecnologia
 1. HTML 5
