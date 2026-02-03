@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como trabalho acadêmico com o objetivo de aplicar
 
 ## 📂 Estrutura do Projeto
 
-titanic/
+titanic/  
 ├── index.html # Página principal  
 ├── sobre.html # Página sobre o Titanic  
 ├── usuario.html # Cadastro de usuário  
@@ -31,7 +31,7 @@ titanic/
 ├── concluido_dinheiro.html # Confirmação pagamento em dinheiro  
 ├── cadastro_concluido.html # Confirmação de cadastro  
 └── css/  
-└── style.css # Estilos personalizados  
+  └── style.css # Estilos personalizados  
 
 ## Tecnologia
 1. HTML 5
