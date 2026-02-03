@@ -42,7 +42,7 @@ titanic/
 ## Como Visualizar
 1. Clone este repositório:
 ```bash
-git clone https://github.com/Tyago03/titanic.git
+git clone https://github.com/Tyago03/Titanic.git
 ```
 
 
