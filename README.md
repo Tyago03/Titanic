@@ -31,7 +31,7 @@ titanic/
 ├── concluido_dinheiro.html # Confirmação pagamento em dinheiro
 ├── cadastro_concluido.html # Confirmação de cadastro
 └── css/
-  └── style.css # Estilos personalizados
+└── style.css # Estilos personalizados
 
 ## Tecnologia
 1. HTML 5
