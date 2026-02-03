@@ -43,6 +43,7 @@ titanic/
 1. Clone este repositório:
 ```bash
 git clone https://github.com/Tyago03/titanic.git
+```
 
 
 ![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/800px-RMS_Titanic_3.jpg)
