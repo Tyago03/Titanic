@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como trabalho acadêmico com o objetivo de aplicar
 - **Páginas de confirmação** de cadastro e compra
 - **Design responsivo** utilizando Bootstrap 5
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 titanic/  
 ├── index.html # Página principal  
