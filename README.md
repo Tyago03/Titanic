@@ -44,6 +44,15 @@ titanic/
 ```bash
 git clone https://github.com/Tyago03/Titanic.git
 ```
+## Licença
+
+Este projeto foi desenvolvido para fins educacionais como parte de um trabalho acadêmico.
+
+© 2026 Tyago03. Todos os direitos reservados.
+
+Este software é disponibilizado apenas para fins de demonstração em portfólio. 
+Nenhuma parte deste projeto pode ser reproduzida, distribuída ou utilizada 
+sem autorização prévia por escrito.
 
 
 ![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/800px-RMS_Titanic_3.jpg)
