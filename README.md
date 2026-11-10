@@ -53,7 +53,3 @@ Este projeto foi desenvolvido para fins educacionais como parte de um trabalho a
 Este software é disponibilizado apenas para fins de demonstração em portfólio. 
 Nenhuma parte deste projeto pode ser reproduzida, distribuída ou utilizada 
 sem autorização prévia por escrito.
-
-
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/800px-RMS_Titanic_3.jpg)
-
