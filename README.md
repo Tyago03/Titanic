@@ -48,4 +48,4 @@ O fluxo é visual e educativo; não existe processamento real de dados de pagame
 
 ## Licença
 
-O código original deste projeto está sob a [licença MIT](LICENSE). Imagens, marcas, textos e conteúdos de **terceiros** usados em referências externas não são licenciados por este repositório e permanecem sujeitos aos direitos dos respectivos titulares.
+O código original deste projeto está sob a [licença MIT](LICENSE). Imagens, marcas, textos e conteúdos de **terceiros**, inclusive recursos visuais presentes no repositório, não são sublicenciados por esta publicação. Consulte o [aviso sobre direitos de terceiros](NOTICE.md).
