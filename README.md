@@ -46,6 +46,6 @@ Titanic/
 
 O fluxo é visual e educativo; não existe processamento real de dados de pagamento. A etapa de seleção de método de pagamento ainda pode ser aprimorada. Os recursos externos de imagem e estilos podem deixar de funcionar se os endereços de origem mudarem.
 
-## Direitos autorais
+## Licença
 
-© 2026 Tyago03. Todos os direitos reservados. Projeto educacional disponibilizado para demonstração em portfólio. Não há concessão automática de licença para redistribuição ou reutilização do código, conteúdo ou imagens de terceiros.
+O código original deste projeto está sob a [licença MIT](LICENSE). Imagens, marcas, textos e conteúdos de **terceiros** usados em referências externas não são licenciados por este repositório e permanecem sujeitos aos direitos dos respectivos titulares.
