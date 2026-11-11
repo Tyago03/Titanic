@@ -1,55 +1,51 @@
-# Titanic
-Projeto acadêmico desenvolvido para prática de **HTML5** e **CSS3**, simulando um website de vendas de passagens do RMS Titanic na época de sua viagem inaugural em 1912.
+# Titanic — site acadêmico
 
-## Sobre o Projeto
-Este projeto foi desenvolvido como trabalho acadêmico com o objetivo de aplicar conceitos fundamentais de desenvolvimento web front-end. O site simula uma plataforma de vendas de ingressos para o Titanic, apresentando três classes de acomodação com diferentes níveis de luxo e preços.
+Projeto acadêmico de **HTML5, CSS3 e Bootstrap 5**, inspirado na viagem inaugural do RMS Titanic em 1912.
 
-## Funcionalidades
-- **Página inicial** com apresentação das três classes de passagens
-- **Sistema de navegação** entre diferentes seções do site
-- **Páginas de detalhes** para cada classe de ingresso:
-  - **Voyager** - Classe econômica com conforto acessível
-  - **Elegance** - Classe intermediária com elegância e sofisticação
-  - **Majestic** - Primeira classe com luxo e exclusividade
-- **Formulário de cadastro** de usuário
-- **Fluxo de compra** completo com seleção de método de pagamento
-- **Páginas de confirmação** de cadastro e compra
-- **Design responsivo** utilizando Bootstrap 5
+> **Atenção:** este é um **protótipo front-end**. O cadastro, a seleção de ingressos e os formulários de pagamento são apenas demonstrações. **Não há transações financeiras, pagamentos, envio de pedidos ou backend de compra real.**
 
-## Estrutura do Projeto
+## Funcionalidades demonstrativas
 
-titanic/  
-├── index.html # Página principal  
-├── sobre.html # Página sobre o Titanic  
-├── usuario.html # Cadastro de usuário  
-├── ingresso1.html # Classe Majestic  
-├── ingresso2.html # Classe Elegance  
-├── ingresso3.html # Classe Voyager  
-├── comprar.html # Página de compra  
-├── cartao.html # Pagamento com cartão  
-├── concluido.html # Confirmação de pagamento  
-├── concluido_dinheiro.html # Confirmação pagamento em dinheiro  
-├── cadastro_concluido.html # Confirmação de cadastro  
-└── css/  
-  └── style.css # Estilos personalizados  
+- Apresentação das três classes fictícias: **Voyager**, **Elegance** e **Majestic**.
+- Navegação entre páginas de descrição, cadastro, seleção de ingressos e confirmação.
+- Fluxo visual de compra e pagamento simulado.
+- Layout com Bootstrap 5 e estilos personalizados.
 
-## Tecnologia
-1. HTML 5
-2. CSS 3
-3. Boostrap
-4. FontAwesome
+## Tecnologias
 
-## Como Visualizar
-1. Clone este repositório:
+HTML5, CSS3, Bootstrap 5.3, Font Awesome e imagens externas. Parte dos recursos visuais depende de conexões/CDNs de terceiros.
+
+## Como visualizar
+
 ```bash
 git clone https://github.com/Tyago03/Titanic.git
+cd Titanic
 ```
-## Licença
 
-Este projeto foi desenvolvido para fins educacionais como parte de um trabalho acadêmico.
+Abra `index.html` no navegador. Não é necessário instalar um servidor ou dependências de backend.
 
-© 2026 Tyago03. Todos os direitos reservados.
+## Estrutura resumida
 
-Este software é disponibilizado apenas para fins de demonstração em portfólio. 
-Nenhuma parte deste projeto pode ser reproduzida, distribuída ou utilizada 
-sem autorização prévia por escrito.
+```text
+Titanic/
+├── index.html                 # Página inicial
+├── sobre.html                 # Contexto do site
+├── usuario.html               # Cadastro demonstrativo
+├── ingresso1.html             # Majestic
+├── ingresso2.html             # Elegance
+├── ingresso3.html             # Voyager
+├── comprar.html               # Etapas de compra simulada
+├── cartao.html                # Formulário visual de cartão
+├── concluido*.html            # Confirmações demonstrativas
+├── cadastro_concluido.html    # Confirmação visual de cadastro
+└── css/
+    └── style.css
+```
+
+## Limitações e próximos passos
+
+O fluxo é visual e educativo; não existe processamento real de dados de pagamento. A etapa de seleção de método de pagamento ainda pode ser aprimorada. Os recursos externos de imagem e estilos podem deixar de funcionar se os endereços de origem mudarem.
+
+## Direitos autorais
+
+© 2026 Tyago03. Todos os direitos reservados. Projeto educacional disponibilizado para demonstração em portfólio. Não há concessão automática de licença para redistribuição ou reutilização do código, conteúdo ou imagens de terceiros.
